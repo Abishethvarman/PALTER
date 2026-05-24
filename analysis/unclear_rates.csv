@@ -1,0 +1,8 @@
+benchmark_type,model,unclear_rate,unclear_count,total_condition_scores
+alignment_faking,llama3.1:8b,0.0,0,4500
+factual_deception,llama3.1:8b,0.039,193,4950
+obfuscation,llama3.1:8b,0.0,0,5100
+omission,llama3.1:8b,0.0407,183,4500
+reasoning_deception,llama3.1:8b,0.4924,2216,4500
+strategic_deception,llama3.1:8b,0.0144,66,4575
+sycophancy,llama3.1:8b,0.1038,473,4557

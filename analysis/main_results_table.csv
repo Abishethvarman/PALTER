@@ -1,0 +1,8 @@
+benchmark_type,llama3.1:8b
+factual_deception,0.304 +/- 0.251
+sycophancy,0.237 +/- 0.323
+strategic_deception,0.014 +/- 0.064
+alignment_faking,-0.035 +/- 0.289
+omission,0.675 +/- 0.366
+obfuscation,0.309 +/- 0.310
+reasoning_deception,0.350 +/- 0.272
