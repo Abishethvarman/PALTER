@@ -1,6 +1,6 @@
-# DeceptBench
+# PALTER
 
-DeceptBench is a seven-part benchmark suite for measuring different deception-adjacent behaviors in language model outputs. It runs a model over JSON datasets, scores each response with a shared scorer, checkpoints results to JSON/CSV every 20 completed items, and generates cross-benchmark analysis tables.
+PALTER is a seven-part benchmark suite for measuring different deception-adjacent behaviors in language model outputs. It runs a model over JSON datasets, scores each response with a shared scorer, checkpoints results to JSON/CSV every 20 completed items, and generates cross-benchmark analysis tables.
 
 ## Repository Layout
 
